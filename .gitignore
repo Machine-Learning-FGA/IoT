@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 dataset/*
 !dataset/README.md
+!dataset/camera.csv.zip
